@@ -34,9 +34,9 @@
 					<span class="initials">AA</span>
 					<select name="username" class="user">
 
-						<option value="username">
-							Select-Name<i class="fa fa-arow-down"></i>
-						</option>
+						<option value="username">Daniel<i class="fa fa-arow-down"></i></option>
+						<option value="username">Kosiben<i class="fa fa-arow-down"></i></option>
+						<option value="username">Joseph<i class="fa fa-arow-down"></i></option>
 					</select>
 					<i class="fa fa-user"></i>
 					<hr class="hruser">
@@ -87,9 +87,24 @@
 								<th>Name</th>
 								<th>Track</th>
 								<th>Slack&nbsp;Username</th>
-								<th>Email</th>
-								<th>Phone</th>
+								
 							</tr>
+							<tr>
+								<td>Joseph</td>
+								<td>Backend</td>
+								<td>Sirjoseph94</td>
+							</tr>
+							<tr>
+								<td>Daniel</td>
+								<td>Design</td>
+								<td>Daniel2code</td>
+							</tr>
+							<tr>
+								<td>Kosiben</td>
+								<td>Design</td>
+								<td>Daniel2code</td>
+							</tr>
+								
 						</table>
 					</div>
 				</div>
