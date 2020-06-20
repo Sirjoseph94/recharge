@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "vlucas/phpdotenv": "^5.0"
+    }
+}

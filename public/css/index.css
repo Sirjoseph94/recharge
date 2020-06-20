@@ -1,0 +1,177 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+tr{
+	border: none !important;
+	color: #fff;
+}
+.q {
+	text-align: center;
+}
+.title {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bolder;
+	font-size: 72px;
+	text-align: center;
+	margin: 4rem 0;
+}
+.title h6 {
+	font-weight: lighter;
+	font-style: normal;
+	margin: 0;
+
+	font-size: 16px;
+}
+.title-table {
+	margin: 4rem 0 .4rem 0;
+	text-align: center;
+}
+.hng {
+	color: #00AEFF;
+}
+.initials {
+	border: 1px solid black;
+	padding: .2rem;
+	border-radius: 45%;
+	background-color: #fff;
+	margin-bottom: 2rem;
+}
+.amount {
+	border: .3px solid black;
+	padding: .2rem;
+	border-radius: 5px 0 0 5px;
+	background-color: #fff;
+	align-content: center;
+	
+}
+.amt {
+	width: 30%;
+	border: 1px solid #000;
+	border-left: none;
+	padding: .1rem;
+	border-radius: 0 5px 5px 0;
+	background-color: #fff;
+	margin-bottom: .1rem;
+}
+.amt:focus {
+	width: 50%;
+	
+	border-left: none;
+	padding: .1rem;
+	border-radius: 0 5px 5px 0;
+	background-color: inherit;
+	margin-bottom: .1rem;
+}
+.phone-number {
+	border: 1px solid black;
+	padding: .1rem;
+	border-radius: 6px;
+	background-color: #fff;
+}
+
+
+.inputs-div {
+	background: #00AEFF;
+	border: 1px solid #00AEFF;
+	box-sizing: border-box;
+	border-radius: 10px;
+	width: 100%;
+	padding: 2rem .5rem;
+}
+.inputs-div p{
+	color: #fff;
+}
+.hramt {
+	width: 80px;
+	color: #000000;
+	font-weight: bolder;
+	font-size: 16px;
+	margin-top: .7rem;
+	background-color: #000;
+}
+.hrphone {
+	width: 210px;
+	color: #000000;
+	font-weight: bolder;
+	font-size: 16px;
+	background-color: #000;
+}
+.hruser{
+	width: 170px;
+	color: #000000;
+	font-weight: bolder;
+	font-size: 16px;
+	background-color: #000;
+}
+.hrnetwork {
+	width: 80px;
+	color: #000000;
+	background-color: #000;
+	font-weight: bolder;
+	font-size: 16px;
+	margin-top: 1.1rem;
+}
+
+.inputs-div div {
+	/*margin: 0 .5rem;*/
+	max-width: 400px;
+	/*padding: 0 0 .3rem 0;*/
+	/*border-bottom: 1px solid #000000;*/
+	text-align: center;
+}
+
+.phone {
+	width: 60%;
+	border: none;
+	background-color: inherit;
+}
+.user {
+	background-color: inherit;
+	border: none;
+}
+.network {
+	border: none;
+	border-radius: 5px;
+	background-color: #fff;
+}
+input[type=button] {
+	background-color: #00AEff;
+	border-radius: 10px;
+	padding: 1rem 2rem;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	border: none;
+	color: #FFFCFC;
+}
+.buttons {
+	margin: 1rem 0;
+	text-align: center;
+}
+
+.logodiv {
+	width: 15%;
+	height: 40px;
+}
+header {
+	padding: 1rem 7rem;
+}
+.table {
+	background-color: #00AEFF;
+	padding: 2rem;
+	text-align: center;
+	background: #00AEFF;
+	border: 1px solid #00AEFF;
+	box-sizing: border-box;
+	border-radius: 10px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .title {
+  	font-size: 25px;
+  }
+}
