@@ -102,7 +102,7 @@
 							<tr>
 								<td>Kosiben</td>
 								<td>Design</td>
-								<td>Daniel2code</td>
+								<td>Kosiben</td>
 							</tr>
 								
 						</table>
